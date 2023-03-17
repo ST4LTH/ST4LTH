@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Im a frontend dev from sweden
+Vue/Svelte/js/css/html
+
+
 
 <!--
 **ST4LTH/ST4LTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
