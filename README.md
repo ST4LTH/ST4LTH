@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a beginner frontend dev from sweden
+### Hi there 👋 I'm a beginner frontend developer from sweden
 Vue/Svelte/js/css/html
 
 
