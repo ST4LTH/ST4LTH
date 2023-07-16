@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm a beginner frontend developer from sweden
-Vue/Svelte/js/css/html
+Vue/Svelte/React/js/css/html
 
 
 
