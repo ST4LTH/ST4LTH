@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm a beginner frontend developer from sweden
 Vue/Svelte/React/js/css/html
 
+## Currently specializing in fivem scripting
 
 
 <!--
