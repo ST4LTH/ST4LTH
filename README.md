@@ -2,7 +2,6 @@
 Vue/Svelte/React/js/css/html
 
 ### Currently specializing in fivem scripting
-Check out my shop! [ST4LTH](https://st4lth.tebex.io/) <br> 
 Join my discord [DISCORD](https://discord.gg/75HYJnRM) <br> 
 Check out my current project [Shattered Roleplay](https://discord.gg/UCS72bWQ9u) 
 <!--
