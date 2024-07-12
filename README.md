@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm a beginner frontend developer from sweden
-Vue/Svelte/React/js/css/html
+Vue/Svelte/React/js/ts/css/html
 
 ### Currently specializing in fivem scripting
 Join my discord [DISCORD](https://discord.gg/75HYJnRM) <br> 
