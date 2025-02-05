@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm a beginner frontend developer from sweden
 Vue/Svelte/React/js/ts/css/html
 
-### Currently specializing in fivem scripting
+### Currently Freelance fullstack fivem developer
 Check out my [Portfolio](https://st4lth.vercel.app/) <br> 
 Join my discord [DISCORD](https://discord.gg/75HYJnRM) <br> 
 
