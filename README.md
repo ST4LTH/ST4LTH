@@ -4,7 +4,7 @@ Vue/Svelte/React/js/ts/css/html
 ### Currently specializing in fivem scripting
 Check out my [Portfolio](https://st4lth.vercel.app/) <br> 
 Join my discord [DISCORD](https://discord.gg/75HYJnRM) <br> 
-Check out my current project [Shattered Roleplay](https://discord.gg/UCS72bWQ9u) 
+
 <!--
 **ST4LTH/ST4LTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
