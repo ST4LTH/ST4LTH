@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm a beginner frontend developer from sweden
-Vue/Svelte/React/js/ts/css/html
+Vue/Svelte/React/SolidJS/js/ts/css/html
 
 ### Currently Freelance fullstack fivem developer
 Check out my [Portfolio](https://st4lth.vercel.app/) <br> 
