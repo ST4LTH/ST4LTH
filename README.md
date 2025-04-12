@@ -2,7 +2,7 @@
 Vue/Svelte/React/SolidJS/js/ts/css/html
 
 ### Currently Freelance fullstack fivem developer
-Join my discord [DISCORD](https://discord.gg/75HYJnRM) <br> 
+Join my [discord](https://discord.gg/Sgzd9umgjg) <br> 
 
 <!--
 **ST4LTH/ST4LTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
