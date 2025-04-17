@@ -1,8 +1,7 @@
-## Hi there 👋 I'm a beginner frontend developer from sweden
+I'm okey at coding 🤓 <br> 
 Vue/Svelte/React/SolidJS/js/ts/css/html
 
-### Currently Freelance fullstack fivem developer 🤓
-Join my [discord](https://discord.gg/Sgzd9umgjg) <br> 
+[LE Development](https://discord.gg/Sgzd9umgjg) <br> 
 
 <!--
 **ST4LTH/ST4LTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
