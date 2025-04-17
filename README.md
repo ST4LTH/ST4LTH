@@ -1,5 +1,5 @@
 I'm okey at coding 🤓 <br> 
-Vue/Svelte/React/SolidJS/js/ts/css/html
+Vue/Svelte/React/SolidJS/js/ts/scss/rust/lua
 
 [LE Development](https://discord.gg/Sgzd9umgjg) <br> 
 
