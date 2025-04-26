@@ -1,7 +1,7 @@
 I'm okey at coding 🤓 <br> 
 Vue/Svelte/React/SolidJS/js/ts/scss/rust/lua
 
-[LE Development](https://discord.gg/Sgzd9umgjg) <br> 
+[LE Development](https://www.le-development.com/) <br> 
 
 <!--
 **ST4LTH/ST4LTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
